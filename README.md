@@ -7,7 +7,7 @@ Academic Year 2023/24 - January 2024 Exam Session
 
 ## 👥 Author
 
-- Simone Lesinigo ([GitHub](https://github.com/leso246))
+- Simone Lesinigo ([GitHub](https://github.com/simone-lesinigo))
 
 ## Introduction
 

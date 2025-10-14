@@ -1,4 +1,4 @@
-%%%% Simone Lesinigo https://github.com/Leso246
+%%%% Simone Lesinigo https://github.com/simone-lesinigo
 
 %%% -*- Mode: Prolog -*-
 

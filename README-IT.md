@@ -7,7 +7,7 @@ Anno Accademico 2023/24 - Appello di gennaio 2024
 
 ## 👥 Autore
 
-- Simone Lesinigo ([GitHub](https://github.com/leso246))
+- Simone Lesinigo ([GitHub](https://github.com/simone-lesinigo))
 
 ## Introduzione
 
